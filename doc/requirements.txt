@@ -1,0 +1,9 @@
+ipykernel
+myst-nb
+ipywidgets
+panel
+pandas
+numpy
+matplotlib
+hvplot
+sphinx_rtd_theme
